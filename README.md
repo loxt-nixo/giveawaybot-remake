@@ -1,1 +1,1 @@
-# giveawaybot-remake
+# GiveawayBot Remake
